@@ -26,6 +26,8 @@ GoogleCyberSec/
 ├── 08-Cybersecurity-Capstone/
 ├── 09-Resources/
 ├── 10-Quick Templates/
+├── 11-Github Notes
+├── 12-Certification Achievement/
 └── README.md
 ```
 
