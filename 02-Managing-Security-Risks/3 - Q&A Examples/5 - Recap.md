@@ -53,3 +53,48 @@
 -  Compliance regulations to be adhered to
 -  Results and recommendations
 - Hint*
+
+### Which of the following statements accurately describe playbooks? Select three answers.
+
+-  A playbook improves efficiency when identifying and mitigating an incident.
+-  A playbook is an essential tool used in cybersecurity.
+-  A playbook can be used to respond to an incident
+
+- Hint*
+
+### A security team is considering what they learned during past security incidents. They also discuss ways to improve their security posture and refine response strategies for future incidents. What is the security team’s goal in this scenario?
+
+-  Update a playbook
+- Hint*
+
+### Fill in the blank: Incident response playbooks outline processes for communication and ______ of a security breach.
+
+-  documentation
+- Hint*
+
+### A security analyst wants to ensure an organized response and resolution to a security breach. They share information with key stakeholders based on the organization’s established standards. What phase of an incident response playbook does this scenario describe?
+
+-  Coordination
+- Hint*
+
+### Which phase of an incident response playbook is primarily concerned with preventing further damage and reducing the immediate impact of a security incident?
+
+-  Containment
+- Hint*
+
+### Fill in the blank: During the post-incident activity phase, security teams may conduct a full-scale analysis to determine the _____ of an incident and use what they learn to improve the company’s overall security
+
+-  root cause
+- Hint*
+
+### A security analyst establishes incident response procedures. They also educate users on what to do in the event of a security incident. What phase of an incident response playbook does this scenario describe?
+
+-  Preparation
+- Hint*
+
+### In what ways do SIEM tools and playbooks help security teams respond to an incident? Select all that apply.
+
+-  SIEM tools and playbooks work together to provide an efficient way of handling security incidents.
+-  SIEM alerts inform security teams of potential threats.
+-  SIEM tools analyze data.
+- Hint*
