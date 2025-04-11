@@ -10,7 +10,7 @@
   4. `git push`- copy and paste terminal output
 - New code will be pushed to GitHub but a pull request will need to be created.
 - To create a pull request, these are the steps
-  1. Go to forked repository and click on green banner (create pull request)
+  1. Go to forked repository and click on green banner (click compare and pull request)
   2. Add a description of what I completed
   3. Assign myself and a reviewer with tags
   4. After review has been made, squash and Merge
