@@ -20,11 +20,11 @@
 
 1.  The \[SYN\] packet is the initial request from an employee visitor trying to connect to a web page hosted on the web server. SYN stands for “synchronize.”
 2.  The \[SYN, ACK\] packet is the web server’s response to the visitor’s request agreeing to the connection. The server will reserve system resources for the final step of the handshake. SYN, ACK stands for “synchronize acknowledge.”
-3.  The \[ACK\] packet is the visitor’s machine acknowledging the permission to connect.This is the final step required to make a successful TCP connection. ACK stands for “acknowledge.”
+3.  The \[ACK\] packet is the visitor’s machine acknowledging the permission to connect. This is the final step required to make a successful TCP connection. ACK stands for “acknowledge.”
 
 #### Explain what happens when a malicious actor sends a large number of SYN packets all at once:
 
-- The web servers become overwhelmed and are unable to respond.This is a network level denial of service (DoS) attack called SYN flood attack that targets network bandwidth to slow traffic.
+- The web servers become overwhelmed and are unable to respond. This is a network level denial of service (DoS) attack called SYN flood attack that targets network bandwidth to slow traffic.
 
 #### Explain what the logs indicate and how that affects the server:
 
