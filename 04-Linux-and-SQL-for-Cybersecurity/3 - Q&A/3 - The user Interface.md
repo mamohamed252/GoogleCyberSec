@@ -7,15 +7,13 @@
 ### Which of the following can be components of a GUI? Select all that apply.
 
 
-Start menu
+- Start menu
 - Hint* A start menu is a common component of a GUI.
 
-
-Task bar
+- Task bar
 - Hint* A task bar is a common component of a GUI.
 
-
-Desktop icons and shortcuts
+- Desktop icons and shortcuts
 - Hint* Desktop icons and shortcuts are common components of a GUI.
 
 ### Fill in the blank: A security professional uses a(n) _____ to interact with a computer using text-based instructions.
