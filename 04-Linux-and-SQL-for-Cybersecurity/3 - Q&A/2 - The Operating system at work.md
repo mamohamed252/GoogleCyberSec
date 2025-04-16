@@ -18,23 +18,11 @@
 
 ### Which of the following processes are part of starting an operating system? Select all that apply.
 
--
-The BIOS or UEFI microchip loads the bootloader.
+- The BIOS or UEFI microchip loads the bootloader.
+- Either the BIOS or UEFI microchip is activated when a user turns on a computer. The BIOS or UEFI microchip loads the bootloader, and the bootloader starts the operating system.
 
+- The bootloader starts the operating system.
+- Either the BIOS or UEFI microchip is activated when a user turns on a computer. The BIOS or UEFI microchip loads the bootloader, and the bootloader starts the operating system.
 
-Correct
-Either the BIOS or UEFI microchip is activated when a user turns on a computer. The BIOS or UEFI microchip loads the bootloader, and the bootloader starts the operating system.
-
-
-The bootloader starts the operating system.
-
-
-Correct
-Either the BIOS or UEFI microchip is activated when a user turns on a computer. The BIOS or UEFI microchip loads the bootloader, and the bootloader starts the operating system.
-
-
-Either the BIOS or UEFI microchip is activated when a user turns on a computer.
-
-
-Correct
-Either the BIOS or UEFI microchip is activated when a user turns on a computer. The BIOS or UEFI microchip loads the bootloader, and the bootloader starts the operating system.
+- Either the BIOS or UEFI microchip is activated when a user turns on a computer.
+- Either the BIOS or UEFI microchip is activated when a user turns on a computer. The BIOS or UEFI microchip loads the bootloader, and the bootloader starts the operating system.
