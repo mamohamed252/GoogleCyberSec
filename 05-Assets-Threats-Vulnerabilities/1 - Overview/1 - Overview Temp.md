@@ -27,7 +27,7 @@ Learning Objectives
 - Describe how to effectively use authentication as a security control.
 - Describe effective authorization practices that verify user access.
 
-- [ ] Notes
-- [ ] Q&A
+- [X] Notes
+- [X] Q&A
 
 ----------------------------------------------------------------------------------------------------------------------------
